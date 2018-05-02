@@ -1,7 +1,7 @@
 # Day of the Year Translator
 ## Starting Out with C++, Chapter 14 Programming Challenges #2 and #3.
-Assuming that a year has 365 days, write a class named DayOfYear that takes an inte-
-ger representing a day of the year and translates it to a string consisting of the month
+Assuming that a year has 365 days, write a class named DayOfYear that takes an 
+integer representing a day of the year and translates it to a string consisting of the month
 followed by day of the month. For example,
 Day 2 would be January 2 .
 Day 32 would be February 1 .
